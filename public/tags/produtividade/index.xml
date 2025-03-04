@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Produtividade on Lightbi</title>
+    <link>http://localhost:1313/tags/produtividade/</link>
+    <description>Recent content in Produtividade on Lightbi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
+    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/produtividade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Arte de Construir uma Vida Melhor</title>
+      <link>http://localhost:1313/post/vida-melhor/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/vida-melhor/</guid>
+      <description>&lt;p&gt;Você já se sentiu como se estivesse apenas &amp;ldquo;existindo&amp;rdquo; em vez de realmente progredir em direção aos seus objetivos? Aquele sentimento de que as mudanças positivas que você tanto deseja parecem sempre tão distantes? A boa notícia é que existe uma maneira comprovada de transformar sua vida, um pequeno passo de cada vez.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

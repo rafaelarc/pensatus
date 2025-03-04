@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightbi</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Lightbi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
+    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Arte de Construir uma Vida Melhor</title>
+      <link>http://localhost:1313/post/vida-melhor/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/vida-melhor/</guid>
+      <description>&lt;p&gt;Você já se sentiu como se estivesse apenas &amp;ldquo;existindo&amp;rdquo; em vez de realmente progredir em direção aos seus objetivos? Aquele sentimento de que as mudanças positivas que você tanto deseja parecem sempre tão distantes? A boa notícia é que existe uma maneira comprovada de transformar sua vida, um pequeno passo de cada vez.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Poder Secreto da Visualização</title>
+      <link>http://localhost:1313/post/poder-secreto-visualizacao/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/poder-secreto-visualizacao/</guid>
+      <description>&lt;p&gt;Já parou para pensar como seria bom alcançar aquele objetivo que tanto deseja? Seja uma promoção no trabalho, completar uma maratona ou simplesmente ter mais confiança em si, todos nós temos sonhos que nos motivam. Mas e se eu te dissesse que existe uma ferramenta poderosa, ao alcance de todos, capaz de impulsionar você rumo ao sucesso? Essa ferramenta é a visualização.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.1</title>
+      <link>http://localhost:1313/collections/collections/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/collections/collections/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note 1</title>
+      <link>http://localhost:1313/notes/change/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/notes/change/</guid>
+      <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
