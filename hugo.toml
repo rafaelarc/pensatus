@@ -1,4 +1,4 @@
-baseURL = "https://pensatus.netlify.app/"
+baseURL = "https://pensatus.com/"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 languageCode = "en-us"
